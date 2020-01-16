@@ -65,6 +65,7 @@ const empireStateBuilding = {
     architect: "Shreve, Lamb & Harmon"
 };
 
+console.log("___Empire State Building Dimensions___");
 console.log(empireStateBuilding.stories);
 console.log(empireStateBuilding.height);
 console.log(empireStateBuilding.squareFeet);
