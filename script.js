@@ -13,25 +13,25 @@ const familyMembers = [
     eugene,
     remle,
     olivia
-]
+];
 
 const teresa = {
     name: "Teresa",
     relationship: "mother"
-}
+};
 
 const eugene = {
     name: "Eugene",
     relationship: "father"
-}
+};
 
 const remle = {
     name: "Remle",
     relationship: "brother"
-}
+};
 
 const olivia = {
     name: "Olivia",
     relationship: "sister"
-}
+};
 
