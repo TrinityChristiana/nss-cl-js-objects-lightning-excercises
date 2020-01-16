@@ -71,3 +71,9 @@ console.log(empireStateBuilding.squareFeet);
 console.log(empireStateBuilding.eastWestLength);
 console.log(empireStateBuilding.northSouthLength);
 // Lightning Exercises 6: Use square bracket notation to output the remaining 5 properties to the console. Create 5 variables first with the keys as their values. Use those variables to look up the values.
+console.log("___Print remaining empire state building properties___");
+console.log(empireStateBuilding["address"]);
+console.log(empireStateBuilding["constructionDate"]);
+console.log(empireStateBuilding["cost"]);
+console.log(empireStateBuilding["owner"]);
+console.log(empireStateBuilding["architect"]);
